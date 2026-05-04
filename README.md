@@ -1,7 +1,5 @@
 # Discuz! 4.1.0 (Community-Maintained Fork)
 
-[中文文档](README_zh.md)
-
 Discuz! is a classic BBS/forum system originally developed by Comsenz Inc. (2001-2006).  
 This repository is a community-maintained fork under the MIT license, updated for modern PHP environments.
 
