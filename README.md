@@ -122,4 +122,4 @@ Full details: [`php84-upgrade-report.md`](php84-upgrade-report.md)
 MIT License. See [LICENSE](LICENSE).
 
 Originally developed by Comsenz Inc.  
-Maintained by [Wenyin Root](https://github.com/wenyinos/discuz-410)
+Maintained by [yuhong1996](https://github.com/yuhong1996/discuz-410)
